@@ -51,5 +51,4 @@ void insertPercent20(char* input, int length) {
 
         input[end] = '\0';
     }
-
 }
